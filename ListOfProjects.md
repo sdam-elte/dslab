@@ -1,35 +1,35 @@
 ## List of projects, consultants and students
 
-* 01 - **UMAP: Epigenetic Landscape and Allelic Imbalance Analysis in Colorectal Carcinoma Using Single-Cell Data**
-  * Consultant: Csaba Kiss, István Csabai
-  * Student: 
-* 02 - **Photometric redshift estimation**
+* 02 - [**Photometric redshift estimation**](Projects/02-astro_photoz/)
   * Consultant: István Csabai
   * Student: 
-* 03 - **Lightning Hotspots on Earth**
+* 03 - [**Lightning Hotspots on Earth**](Projects/03-earthsci_lightning/)
   * Consultant: Dávid Visontai
   * Student: 
-* 06 - **Cosmic Microwave Background power spectrum** 
+* 06 - [**Cosmic Microwave Background power spectrum**](Projects/06-astro_CMB/)
   * Consultant: Balázs Pál, István Csabai
   * Student: 
-* 07 - **Signatures of mutational processes in human cancer** 
+* 07 - [**Signatures of mutational processes in human cancer**](Projects/07-mutational_signatures_in_cancer/)
   * Consultant: Orsolya Pipek
   * Student: 
-* 09 - **Social media small world or words** 
+* 09 - [**Social media small world or words**](Projects/09-social_media_small_world_or_words/)
   * Consultant: David Visontai
   * Student: 
-* 11 - **Wars on wikipedia** 
+* 11 - [**Wars on wikipedia**](Projects/11-wikiwars/)
   * Consultant: David Visontai
   * Student: 
-* 15 - **Bio-NN: Milk somatic cell count**
+* 15 - [**Bio-NN: Milk somatic cell count**](Projects/15-subclinical_mastitis/)
   * Consultant: Sára Nagy
   * Student: 
-* 16 - **Bio-DL: Bacterial colony size growth estimation**
+* 16 - [**Bio-DL: Bacterial colony size growth estimation**](Projects/16-bacterial_growth_rate/)
   * Consultant: Sára Nagy
   * Student:  
-* 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
+* 17 - [**Bio-DL: Dairy Cow Body Condition Prediction**](Projects/17-scoring_body_condition/)
   * Consultant: Sára Nagy
   * Student: 
-* 18 - **TBA (Tracking of water surface dynamics)**
+* 18 - [**UMAP: Epigenetic Landscape and Allelic Imbalance Analysis in Colorectal Carcinoma Using Single-Cell Data**](Projects/18-BIO-UMAP-Epigenetic-Landscape/)
+  * Consultant: Csaba Kiss, István Csabai
+  * Student: 
+* 19 - **TBA (Tracking of water surface dynamics)**
   * Consultant: Miklós Vincze
   * Student: 
