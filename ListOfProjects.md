@@ -1,7 +1,7 @@
 ## List of projects, consultants and students
 
 * 02 - [**Photometric redshift estimation**](Projects/02-astro_photoz/)
-  * Consultant: István Csabai
+  * Consultant: Balázs Pál, István Csabai
   * Student: 
 * 03 - [**Lightning Hotspots on Earth**](Projects/03-earthsci_lightning/)
   * Consultant: Dávid Visontai
