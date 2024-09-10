@@ -30,6 +30,6 @@
 * 18 - [**UMAP: Epigenetic Landscape and Allelic Imbalance Analysis in Colorectal Carcinoma Using Single-Cell Data**](Projects/18-BIO-UMAP-Epigenetic-Landscape/)
   * Consultant: Csaba Kiss, István Csabai
   * Student: 
-* 19 - **Flow field reconstruction and tracer particle tracking in (rotating) flows**
+* 19 - [**Flow field reconstruction and tracer particle tracking in (rotating) flows**](Projects/19-FlowFieldReconstruction/)
   * Consultant: Miklós Vincze
   * Student: 
