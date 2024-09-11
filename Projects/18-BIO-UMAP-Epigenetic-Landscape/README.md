@@ -10,7 +10,7 @@ This challenge aims to provide participants with hands-on experience in analyzin
 ### Tasks
 #### Main Task: Single-Cell Data Processing and Epigenetic Analysis
     1. Data Preparation and Quality Control (QC):
-        ◦ Start with publicly available single-cell data from the GEO database (GSE201349), which includes 5 CRC and 5 normal samples. Preprocessed data (FASTQ, BAM, barcode.tsv, feature.tsv, matrix.mtx files) will be provided.
+        ◦ Start with publicly available single-cell data from the GEO database (GSE201349), which includes 3 CRC and 3 normal samples. Preprocessed data (FASTQ, BAM, barcode.tsv, feature.tsv, matrix.mtx files) will be provided.
         ◦ Perform essential QC steps to filter out low-quality cells, doublets, and other artifacts in both scRNA-seq and scATAC-seq datasets.
     2. Dimensionality Reduction and Clustering:
         ◦ Create UMAP representations of the data to visualize cell populations.
