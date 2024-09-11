@@ -13,7 +13,7 @@ The Cosmic Microwave Background (CMB) radiation is one of the key source of info
   - [notebook examples](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool) of data analysis
   - The [CAMB tool](https://camb.readthedocs.io/en/latest/) to generate spectra and maps with different cosmological parameters (used in [Part 8](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool/blob/master/CMB_School_Part_08.ipynb))
 - Planck 2018 results: https://arxiv.org/abs/1807.06205 
-- Plank 2018 CMB maps: https://pla.esac.esa.int/pla/
+- Planck 2018 CMB maps: https://pla.esac.esa.int/pla/
 
 ### Tasks
 0. Read the introductory material and understand the basics of the CMB radiation.
