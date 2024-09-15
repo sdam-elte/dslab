@@ -32,13 +32,13 @@ There will be a maximum of **15 minutes** allocated for each presenter and **5 m
 
 ## Data for the projects
  
- * All the data and other necessary files will be accesible in the Kooplex system, in `/v/courses/datascilab2024.public/` directories
+ * All the data and other necessary files will be accesible in the Kooplex system, in `/v/courses/datascilab_2024.public/` directories
  * If you'd like to access any large file, that is still not there, please notify the administrator
   
 ## Submission of the reports and presentations
   
  * Any material should be uploaded to the [Kooplex](https://k8plex-edu.elte.hu/) system. If you use another platform for presentation, then supply all necessary informations for accessing that presentation into a file, that will be submitted.
- * Large datafiles (> 100MB), that are produced during the workflow and are necessary for obtaining the final results should be kept also in the `/v/courses/datascilab2024.public/` directory. Before submitting your work, please ask the administrator (David Visontai in this case) to make a copy of it in the right directory 
+ * Large datafiles (> 100MB), that are produced during the workflow and are necessary for obtaining the final results should be kept also in the `/v/courses/datascilab_2024.public/` directory. Before submitting your work, please ask the administrator (David Visontai in this case) to make a copy of it in the right directory 
 
 ### Upload notebooks and code
 
