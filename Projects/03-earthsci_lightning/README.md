@@ -17,7 +17,7 @@ Link to the key paper: https://journals.ametsoc.org/doi/10.1175/BAMS-D-14-00193.
 
 Tasks
 
-## Data aquisition
+## Data acquisition
 
 These ISS LIS data are considered provisional files indicating that the algorithm is still
 under development and the data may contain errors. Dataset available online from the 
