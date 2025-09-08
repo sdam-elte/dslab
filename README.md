@@ -5,19 +5,19 @@
 
 **The List of projects and applicants** is [here](ListOfProjects.md)
   
-**Location and time of meetings:** The meetings will be held in 5.56 Information technology laboratory and will start always at 12:00 PM on Wednesday and end the latest at 14:00. Most of the time students will give presentations and report on their progress, so it is not obligatory to be present during the whole session, but highly recommended.
+**Location and time of meetings:** The meetings will be held in 5.56 Information technology laboratory and will start always at 12:00 PM on Wednesday and end the latest at 9:00. Most of the time students will give presentations and report on their progress, so it is not obligatory to be present during the whole session, but highly recommended.
   
   The goal of the course is to instil practical skills needed for exploratory data analysis. With the acquired knowledge the student shall be able to perform independent research requiring handling of big data. To this end the students will have to explore a couple of longer running projects inspired data intensive problems drawn from multiple fields such as astronomy, genomics and social networks. The students will familiarize themselves with a wide skillset from various software engineering techniques to presenting their well distilled research in a manner that is accessible for the general public.  
   
 ## Timetable
 
-11/09/2024 -  (**Meeting**) [ Choosing a project](ListOfProjects.md) <br>
-25/09/2024 -  (**Meeting**) [ Presentation I: Description of the chosen topic and plan of action](1-FormatofPresentationsn.md) (10 minutes maximum fo each presentation) <br>
-09/10/2024 -  (**Meeting** and progress report submission) Presentation II.<br> 
-04/11/2024 -  **Submission** of presentation and progress report<br>
-13/11/2024 -  (**Meeting** and progress report submission) Presentation III.<br>
-27/11/2024 -  (**Meeting** and report submission deadline) Final Presentations. <br>
-11/12/2024 - (**Meeting**) [Presentation of the reproduced works](4-ReproducedReport.md)
+10/09/2024 -  (**Meeting**) [ Choosing a project](ListOfProjects.md) <br>
+24/09/2024 -  (**Meeting**) [ Presentation I: Description of the chosen topic and plan of action](1-FormatofPresentationsn.md) (10 minutes maximum fo each presentation) <br>
+08/10/2024 -  (**Meeting** and progress report submission) Presentation II.<br> 
+03/11/2024 -  **Submission** of presentation and progress report<br>
+12/11/2024 -  (**Meeting** and progress report submission) Presentation III.<br>
+26/11/2024 -  (**Meeting** and report submission deadline) Final Presentations. <br>
+10/12/2024 - (**Meeting**) [Presentation of the reproduced works](4-ReproducedReport.md)
    
  
 ## Grading
