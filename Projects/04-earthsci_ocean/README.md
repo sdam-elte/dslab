@@ -39,6 +39,8 @@ or in `/v/volumes/datadslab/04-Earthsci_ocean` already downloaded. Also in NetCD
 
 Extra Python modules: netCDF4, Basemap 
 
+**Check out** https://www.aviso.altimetry.fr/en/data/products/value-added-products/global-mesoscale-eddy-trajectory-product.html for newer datasets and tools!
+
 ## Eddy detection and tracking
 
 Please carefully read  Section 3 (Eddy detection methods) in Escudier et al. (2016) ,
