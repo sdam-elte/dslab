@@ -1,19 +1,19 @@
 ## List of projects, consultants and students
 
-* 02 - [**Detecting outliers and learning complex structures with large spectroscopic surveys**](Projects/01-astro_UMAP/)
-  * Consultant: Balázs Pál, István Csabai
+* 01 - [**Detecting outliers and learning complex structures with large spectroscopic surveys**](Projects/01-astro_UMAP/)
+  * Consultant: Balázs Pál
   * Student: 
   * Reproduces: 
 * 04 - [**Mesoscale Ocean Eddies along the U.S. West Coast**](Projects/04-earthsci_ocean/)
   * Consultant: Dávid Visontai
   * Student: Mate Karacsony
   * Reproduces:
-* 04 - [**Flowering prediction**](Projects/05-flowering_prediction/)
+* 05 - [**Flowering prediction**](Projects/05-flowering_prediction/)
   * Consultant: Dávid Visontai
   * Student: Laszlo Hajas
   * Reproduces: 
 * 06 - [**Cosmic Microwave Background power spectrum**](Projects/06-astro_CMB/)
-  * Consultant: Balázs Pál, István Csabai
+  * Consultant: Balázs Pál
   * Student: 
   * Reproduces: 
 * 07 - [**Signatures of mutational processes in human cancer**](Projects/07-mutational_signatures_in_cancer/)
@@ -24,11 +24,21 @@
   * Consultant: David Visontai
   * Student: Andras Sroka
   * Reproduces: 
+* 14 - [**Time evolution of cells**](Projects/14-cell_motion/)
+  * Consultant: David Visontai
+  * Student: Laszlo Szabo
+  * Reproduces:
+* 15 - **Bio-NN: Milk somatic cell count**
+  * Consultant: Sára Nagy
+  * Student: 
+* 16 - **Bio-DL: Bacterial colony size growth estimation**
+  * Consultant: Sára Nagy
+  * Student:  
+* 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
+  * Consultant: Sára Nagy
+  * Student: 
 * 18 - [**UMAP: Epigenetic Landscape and Allelic Imbalance Analysis in Colorectal Carcinoma Using Single-Cell Data**](Projects/18-BIO-UMAP-Epigenetic-Landscape/)
   * Consultant: Csaba Kiss, István Csabai
   * Student: 
   * Reproduces: 
-* 14 - [**Time evolution of cells**](Projects/14-cell_motion/)
-  * Consultant: David Visontai
-  * Student: Laszlo Szabo
-  * Reproduces: 
+
