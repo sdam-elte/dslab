@@ -28,15 +28,18 @@
   * Consultant: David Visontai
   * Student: Laszlo Szabo
   * Reproduces:
-* 15 - **Bio-NN: Milk somatic cell count**
+* 15 - [**Bio-NN: Milk somatic cell count**](Projects/15-subclinical_mastitis/)
   * Consultant: Sára Nagy
-  * Student: 
-* 16 - **Bio-DL: Bacterial colony size growth estimation**
+  * Student:
+  * Reproduces:
+* 16 - [**Bio-DL: Bacterial colony size growth estimation**](Projects/16-bacterial_growth_rate/)
   * Consultant: Sára Nagy
-  * Student:  
-* 17 - **Bio-DL: Dairy Cow Body Condition Prediction**
+  * Student:
+  * Reproduces:
+* 17 - [**Bio-DL: Dairy Cow Body Condition Prediction**](Projects/17-scoring_body_condition/)
   * Consultant: Sára Nagy
-  * Student: 
+  * Student:
+  * Reproduces:
 * 18 - [**UMAP: Epigenetic Landscape and Allelic Imbalance Analysis in Colorectal Carcinoma Using Single-Cell Data**](Projects/18-BIO-UMAP-Epigenetic-Landscape/)
   * Consultant: Csaba Kiss, István Csabai
   * Student: 
