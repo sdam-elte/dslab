@@ -5,7 +5,7 @@
 
 **The List of projects and applicants** is [here](ListOfProjects.md)
   
-**Location and time of meetings:** The meetings will be held in 5.56 Information technology laboratory and will start always at 9:30AM on Wednesday and end the latest at 11:45AM. Most of the time students will give presentations and report on their progress, so it is not obligatory to be present during the whole session, but highly recommended.
+**Location and time of meetings:** The meetings will be held in 5.56 Information technology laboratory and will start always at 9:15AM on Wednesday and end the latest at 11:45AM. Most of the time students will give presentations and report on their progress, so it is not obligatory to be present during the whole session, but highly recommended.
   
   The goal of the course is to instil practical skills needed for exploratory data analysis. With the acquired knowledge the student shall be able to perform independent research requiring handling of big data. To this end the students will have to explore a couple of longer running projects inspired data intensive problems drawn from multiple fields such as astronomy, genomics and social networks. The students will familiarize themselves with a wide skillset from various software engineering techniques to presenting their well distilled research in a manner that is accessible for the general public.  
   
