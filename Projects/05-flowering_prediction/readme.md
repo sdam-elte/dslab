@@ -6,7 +6,8 @@ outcrossing, minimize exposure to damaging frosts, and synchronize development w
 soil moisture and nutrient availability. Understanding the environmental cues that influence 
 the timing of reproductive budburst will be important for predicting how flowering phenology 
 of plants will change with a changing climate. 
-Recent [paper](https://www.sciencedirect.com/science/article/pii/S0378112717314834).
+Earlier paper [paper](https://www.sciencedirect.com/science/article/pii/S0378112717314834).
+Recent paper by [Imre Janosi et al.](https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.16740)
 
 In the framework of this project, flowering dates of 329 perennial species over the period 
 of 1968-2000 are evaluated by means of time series of daily environmental parameters 
