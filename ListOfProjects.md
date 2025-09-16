@@ -2,7 +2,7 @@
 
 * 01 - [**Detecting outliers and learning complex structures with large spectroscopic surveys**](Projects/01-astro_UMAP/)
   * Consultant: Balázs Pál
-  * Student: 
+  * Student: Balázs Fehér
   * Reproduces: 
 * 04 - [**Mesoscale Ocean Eddies along the U.S. West Coast**](Projects/04-earthsci_ocean/)
   * Consultant: Dávid Visontai
@@ -22,7 +22,7 @@
   * Reproduces: 
 * 09 - [**Social media small world or words**](Projects/09-social_media_small_world_or_words/)
   * Consultant: David Visontai
-  * Student: Andras Sroka
+  * Student: Andras Sróka
   * Reproduces: 
 * 14 - [**Time evolution of cells**](Projects/14-cell_motion/)
   * Consultant: David Visontai
