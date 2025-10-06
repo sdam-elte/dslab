@@ -1,7 +1,8 @@
-## First presentation:  Description of the chosen topic and plan of action
 
-### What questions should this presentation answer?
+## Format and content of the presentations
 
+### 1) First presentation:  Description of the chosen topic and plan of action
+What questions should this presentation answer?
 * What is the investigated phenomenon?
 * What relevant questions can be asked?
 * What data is available?
@@ -12,7 +13,7 @@
 
 Length of the presentation should be around **10 minutes**
 
-## Format of presentations on progress
+### 2) Presentations on progress
  
  * Try to experiment with the following tools:
    * HTML created from a notebook (Jupyter or Rstudio)
@@ -28,7 +29,7 @@ Length of the presentation should be around **10 minutes**
    * Show the state of the interactive visualization(s), if there is any
 
 
-## Format of final presentation
+### 3) Format of final presentation
 
 * A quick recap of the chosen topic and motivation (1 slide)
 * Steps taken to reach goal
