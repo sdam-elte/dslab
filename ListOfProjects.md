@@ -14,7 +14,7 @@
   * Reproduces: 
 * 06 - [**Cosmic Microwave Background power spectrum**](Projects/06-astro_CMB/)
   * Consultant: Balázs Pál
-  * Student: 
+  * Student: Toghrul Hasanli
   * Reproduces: 
 * 07 - [**Signatures of mutational processes in human cancer**](Projects/07-mutational_signatures_in_cancer/)
   * Consultant: Orsolya Pipek
