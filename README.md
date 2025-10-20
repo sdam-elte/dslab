@@ -13,9 +13,8 @@
 
 10/09/2024 -  (**Meeting**) [ Choosing a project](ListOfProjects.md) <br>
 24/09/2024 -  (**Meeting**) [ Presentation I: Description of the chosen topic and plan of action](1-FormatofPresentationsn.md) <br>
-08/10/2024 -  (**Meeting** and progress report submission) Presentation II.<br> 
-03/11/2024 -  **Submission** of presentation and progress report<br>
-12/11/2024 -  (**Meeting** and progress report submission) Presentation III.<br>
+08/10/2024 -  (**Meeting**) Presentation II.<br> 
+05/11/2024 -  (**Meeting**) Presentation III.<br>
 26/11/2024 -  (**Meeting** and report submission deadline) Final Presentations. <br>
 10/12/2024 - (**Meeting**) [Presentation of the reproduced works](4-ReproducedReport.md)
    
