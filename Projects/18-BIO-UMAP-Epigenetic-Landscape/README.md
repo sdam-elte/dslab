@@ -4,7 +4,7 @@
 Colorectal cancer (CRC) is the third most common cancer and the second leading cause of cancer-related deaths worldwide. Emerging research highlights that the non-coding regions of the genome and epigenetic regulatory mechanisms significantly contribute to CRC development. An in-depth understanding of these epigenetic alterations is crucial for elucidating the mechanisms underlying CRC progression.
 Single-cell multi-omics techniques, such as single-cell RNA sequencing (scRNA-seq) and single-cell ATAC sequencing (scATAC-seq), offer unprecedented resolution to investigate these epigenetic mechanisms at the level of individual cells. These methods enable the exploration of both gene expression and chromatin accessibility dynamics, providing comprehensive insights into the functional non-coding genome's role in regulating gene expression. By integrating scRNA-seq and scATAC-seq data, researchers can unravel the specific epigenetic alterations that drive gene expression changes in CRC.
 
-###Objective
+### Objective
 This challenge aims to provide participants with hands-on experience in analyzing single-cell data to decipher the epigenetic landscape of CRC. Participants will learn how to process and integrate scRNA-seq and scATAC-seq data, identify cell-type-specific epigenetic regulatory mechanisms, and explore allelic imbalance (AI) in the context of CRC risk loci.
 
 ### Tasks

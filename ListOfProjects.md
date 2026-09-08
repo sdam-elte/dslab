@@ -2,28 +2,28 @@
 
 * 01 - [**Detecting outliers and learning complex structures with large spectroscopic surveys**](Projects/01-astro_UMAP/)
   * Consultant: Balázs Pál
-  * Student: Balázs Fehér
-  * Reproduces: Laszlo Hajas
+  * Student: 
+  * Reproduces: 
 * 04 - [**Mesoscale Ocean Eddies along the U.S. West Coast**](Projects/04-earthsci_ocean/)
   * Consultant: Dávid Visontai
-  * Student: Mate Karacsony
-  * Reproduces: Balázs Fehér
+  * Student: 
+  * Reproduces: 
 * 05 - [**Flowering prediction**](Projects/05-flowering_prediction/)
   * Consultant: Dávid Visontai
-  * Student: Laszlo Hajas
-  * Reproduces: Zsombor Hencsei
+  * Student: 
+  * Reproduces: 
 * 06 - [**Cosmic Microwave Background power spectrum**](Projects/06-astro_CMB/)
   * Consultant: Balázs Pál
-  * Student: Toghrul Hasanli
-  * Reproduces: Mate Karacsony
+  * Student: 
+  * Reproduces: 
 * 07 - [**Signatures of mutational processes in human cancer**](Projects/07-mutational_signatures_in_cancer/)
   * Consultant: Orsolya Pipek
-  * Student: Zsombor Hencsei
-  * Reproduces: Andras Sróka
+  * Student: 
+  * Reproduces: 
 * 09 - [**Social media small world or words**](Projects/09-social_media_small_world_or_words/)
   * Consultant: David Visontai
-  * Student: Andras Sróka
-  * Reproduces: Toghrul Hasanli
+  * Student: 
+  * Reproduces: 
 * 14 - [**Time evolution of cells**](Projects/14-cell_motion/)
   * Consultant: David Visontai
   * Student: 
@@ -44,4 +44,5 @@
   * Consultant: Csaba Kiss, István Csabai
   * Student: 
   * Reproduces: 
+
 
