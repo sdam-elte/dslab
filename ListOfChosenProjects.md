@@ -44,5 +44,8 @@
   * Consultant: Csaba Kiss, István Csabai
   * Student: 
   * Reproduces: 
-
+* 21 - [**Detecting Uracil in DNA from Nanopore Signals**](Projects/21-Uracil-DNA-Nanopore/)
+  * Consultant: Csaba Kiss, István Csabai
+  * Student: 
+  * Reproduces: 
 
