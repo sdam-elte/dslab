@@ -24,4 +24,8 @@
   * Consultant: Ágnes Becsei, József Stéger
   * Student: Nóra Halász
   * Reproduces: 
+* 22 - [**Approximate Linear Representations of Nonlinear Dynamics**](Projects/22-Linear-Representations/)
+  * Consultant: David Visontai
+  * Student: Gábor Ligeti
+  * Reproduces: 
 
