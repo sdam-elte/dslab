@@ -11,7 +11,7 @@ What questions should this presentation answer?
 * How and where will the data be stored during the workflow?
 * Does the data need to be cleaned and if yes how?
 
-Length of the presentation should be around **10 minutes**
+Length of the presentations should not be longer than **10 minutes**.
 
 ### 2) Presentations on progress
  
